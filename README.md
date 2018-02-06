@@ -1,9 +1,9 @@
 # Psychic-game
 Simple JS guessing game
 
-## Future Development
-Make the theme center around That's So Raven! Can you guess which letter Raven is thinking of?
+Can you guess which letter the document is thinking of?
 
 ## Live Version
 Visit this link to see how the game currently plays:
+<br>
 https://lylkda.github.io/psychic-game/
